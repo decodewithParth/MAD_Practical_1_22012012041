@@ -18,5 +18,12 @@ fun main(){
     println()
     println("*******************************")
     println("Student Data : ")
-    println("")
+    println("Enrollment No. : $erno")
+    println("Name : $name")
+    println("Age : $age")
+    println("Branch : $branch")
+    println("Class : $cls")
+    println("Batch : $batch")
+    println("College Name : $clg")
+    println("University Name : $uni")
 }
