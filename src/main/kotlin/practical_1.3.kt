@@ -18,4 +18,5 @@ fun main(){
     println()
     println("*******************************")
     println("Student Data : ")
+    println("")
 }
