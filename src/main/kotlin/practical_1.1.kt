@@ -1,5 +1,4 @@
 fun main(){
-    println("1.2")
     val a:Int=1
     val b:Char='A'
     val c:Float=2.0f
