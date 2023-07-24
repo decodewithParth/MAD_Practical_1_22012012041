@@ -1,4 +1,7 @@
+import java.util.Arrays
+
 fun printArray(arr: Array<Int>){
+    arr.contentDeepToString();
     for (item in arr) {
         println(item)
     }
